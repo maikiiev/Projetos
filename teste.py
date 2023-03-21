@@ -5,7 +5,7 @@ import time
 import pyperclip
 pyautogui.press('win')
 time.sleep(2)
-pyautogui.write('Goole Chrome')
+pyautogui.write('Opera')
 pyautogui.press('enter')
 time.sleep(5)  
 pyautogui.write('https://outlook.live.com/owa/')
